@@ -4,7 +4,7 @@ const SearchDevelopers =({onSearchChange})=> {
   
         return (
             <div className="pa2">
-                <input className="pa2 ba bw4 b--purple bg-light-green br2"
+                <input className="pa3 ma2 ba bw1 b--dark-red bg-light-green br3"
                     type="search"
                     placeholder="Search Developer"
                     onChange={onSearchChange}

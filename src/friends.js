@@ -85,6 +85,47 @@ export const friends = [
         username:"meskerem",
         position:"Java developer",
         email:"meskerem@gmail.com"
+    },
+    
+    {
+        id:12,
+        name:"Sara",
+        username:"sara",
+        position:"Fornt-end developer",
+        email:"sara@gmail.com"
+    },
+
+    {
+        id:13,
+        name:"Solomon",
+        username:"sele",
+        position:"Fullstack developer",
+        email:"sele@gmail.com"
+    },
+
+    {
+        id:14,
+        name:"Nahom",
+        username:"nahom",
+        position:"Game App developer",
+        email:"namhom@gmail.com"
+    },
+  
+    {
+        id:15,
+        name:"Javad",
+        username:"javad",
+        position:"Food App developer",
+        email:"javad@gmail.com"
+    },
+ 
+    {
+        id:16,
+        name:"Mosen",
+        username:"mosen",
+        position:"Football app developer",
+        email:"mossen@gmail.com"
     }
+
 
 ]
