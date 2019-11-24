@@ -24,6 +24,7 @@
 .sticky{
   position: sticky;
   top: 0;
-  z-index:50;
+  z-index: 100;
+  border-bottom: 2px solid black;
   background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,210,1) 50%);
 }

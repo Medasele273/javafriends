@@ -5,6 +5,7 @@ const FriendsList = ({ friends }) => {
 
     return (
         <div>
+            
             {
                 friends.map((user, i) => {
                     return (

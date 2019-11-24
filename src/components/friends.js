@@ -120,12 +120,35 @@ export const friends = [
     },
  
     {
-        id:16,
-        name:"Mosen",
-        username:"mosen",
-        position:"Football app developer",
-        email:"mossen@gmail.com"
-    }
+        id:17,
+        name:"Rabison",
+        username:"rabi",
+        position:"C# developer",
+        email:"rabi@gmail.com"
+    },
 
+    {
+        id:18,
+        name:"Chaie",
+        username:"chaie",
+        position:"Web app developer",
+        email:"chaie@gmail.com"
+    },
+
+    {
+        id:19,
+        name:"Selam",
+        username:"selam",
+        position:" Fullstack developer",
+        email:"selam@gmail.com"
+    },
+
+    {
+        id:20,
+        name:"Shyla",
+        username:"shyla",
+        position:"Fullstack developer",
+        email:"shyla@gmail.com"
+    }
 
 ]
