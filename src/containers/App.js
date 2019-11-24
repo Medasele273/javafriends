@@ -6,6 +6,7 @@ import FriendsList from '../components/FriendsList';
 import SearchDevelopers from '../components/SearchDevelopers';
 //import { StickyContainer, Sticky } from 'react-sticky';
 //import Scroll from './Scroll';
+import ErrorBaundry from '../components/ErrorBaundry';
 
 class App extends React.Component {
   constructor(props) {
@@ -40,7 +41,10 @@ class App extends React.Component {
             <img className="pa2 ma2" src="https://fontmeme.com/permalink/191124/7a35abdbc690f107238583c6bd02d75c.png" alt="Header" />
             <SearchDevelopers onSearchChange={this.onSearchChange} />
           </div>
-          <FriendsList friends={filterDeveloper} />
+          <ErrorBaundry>
+              <FriendsList friends={filterDeveloper} />
+          </ErrorBaundry>
+          
         </div>
       );
     }
