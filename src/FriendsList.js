@@ -3,7 +3,6 @@ import Card from './Card';
 
 const FriendsList = ({ friends }) => {
 
-
     return (
         <div>
             {
@@ -13,6 +12,7 @@ const FriendsList = ({ friends }) => {
                         key={i} 
                         id={friends[i].id} 
                         name={friends[i].name} 
+                        username={friends[i].username}
                         position={friends[i].position}
                         email={friends[i].email} 
                         />
