@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/javafriends/static/css/main.7a0500e2.chunk.css",
+    "main.js": "/javafriends/static/js/main.80d88777.chunk.js",
+    "main.js.map": "/javafriends/static/js/main.80d88777.chunk.js.map",
+    "runtime-main.js": "/javafriends/static/js/runtime-main.a3df7f64.js",
+    "runtime-main.js.map": "/javafriends/static/js/runtime-main.a3df7f64.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/javafriends/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.b63546f1.chunk.js": "/javafriends/static/js/2.b63546f1.chunk.js",
+    "static/js/2.b63546f1.chunk.js.map": "/javafriends/static/js/2.b63546f1.chunk.js.map",
+    "index.html": "/javafriends/index.html",
+    "precache-manifest.eaccf23c6d34aae90bcc192aec3a1e29.js": "/javafriends/precache-manifest.eaccf23c6d34aae90bcc192aec3a1e29.js",
+    "service-worker.js": "/javafriends/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/javafriends/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.7a0500e2.chunk.css.map": "/javafriends/static/css/main.7a0500e2.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a3df7f64.js",
+    "static/css/2.eb45ad44.chunk.css",
+    "static/js/2.b63546f1.chunk.js",
+    "static/css/main.7a0500e2.chunk.css",
+    "static/js/main.80d88777.chunk.js"
+  ]
+}
